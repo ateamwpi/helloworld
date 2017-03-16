@@ -7,5 +7,6 @@ public class HelloWorld
         System.out.println("Matt McDonald");
         System.out.println("Zachary Vaughan");
         System.out.println("Madeline Burke");
+        System.out.println("Dylan Richardson");
     }
 }
