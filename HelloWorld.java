@@ -9,5 +9,6 @@ public class HelloWorld
         System.out.println("Madeline Burke");
         System.out.println("Dylan Richardson");
         System.out.println("Jacob Berman-Jolton");
+        System.out.println("Jonathan Ariza");
     }
 }
