@@ -8,8 +8,8 @@ public class HelloWorld
         System.out.println("Zachary Vaughan");
         System.out.println("Madeline Burke");
         System.out.println("Dylan Richardson");
-        System.out.println("Jacob Berman-Jolton");
         System.out.println("Jonathan Ariza");
         System.out.println("David Tang");
+        System.out.println("Jacob Berman-Jolton");
     }
 }
