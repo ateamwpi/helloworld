@@ -6,11 +6,11 @@ public class HelloWorld
         System.out.println("Kevin O'Brien");
         System.out.println("Matt McDonald");
         System.out.println("Zachary Vaughan");
-        System.out.println("Madeline Burke");
         System.out.println("Dylan Richardson");
         System.out.println("Jonathan Ariza");
         System.out.println("Nikhil Castelino");
         System.out.println("David Tang");
         System.out.println("Jacob Berman-Jolton");
+        System.out.println("Madeline Burke");
     }
 }
